@@ -1,5 +1,5 @@
-*
-!.github/
-!assets/
+!.github
+!assets
 !.gitignore
 !.README.md
+*
