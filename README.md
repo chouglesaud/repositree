@@ -2,6 +2,10 @@
 
 Browser extension that helps to explore Github repository.
 
+## Keyboard Shortcut
+
+<kbd>Ctrl + B</kbd> Toggle Side Bar Visibility
+
 ![image](assets/repositree.png)
 ![image](assets/settings.png)
 
