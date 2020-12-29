@@ -6,14 +6,15 @@ Browser extension that helps to explore Github repository.
 
 <kbd>Ctrl + B</kbd> Toggle Side Bar Visibility
 
-![image](assets/repositree.png)
-![image](assets/settings.png)
+![image](assets/sidebar-location-left.png)
+![image](assets/sidebar-location-right.png)
 
 ## Features
 
 - IDE-like code tree for GitHub (Public and Private) repositories.
 - Change the sidebar location to the right or left of the screen.
 - Resize sidebar.
+- Github Dark Mode Support Comming Soon...
 
 **have an idea feel free to create feature request**
 
