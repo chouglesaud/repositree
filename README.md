@@ -4,11 +4,12 @@ Browser extension that helps to explore Github repository.
 
 ## Features
 
+- Clean UI
 - IDE-like code tree for GitHub (Public and Private) repositories.
-- Change the sidebar location to the right or left of the screen.
-- Resize sidebar.
+- Left & Right Dock Location.
+- Resizable Layout.
 - Github Light & Dark themes.
-- Splited UI Comming Soon....
+- More Feature Coming Soon...
 
 **have an idea feel free to create feature request**
 
