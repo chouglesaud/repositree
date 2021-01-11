@@ -17,10 +17,8 @@ Browser extension that helps to explore Github repository.
 
 <kbd>Ctrl + B</kbd> Toggle Side Bar Visibility
 
-![image](assets/lightmode1.png)
-![image](assets/lightmode2.png)
-![image](assets/darkmode1.png)
-![image](assets/darkmode2.png)
+![image](assets/lighttheme.png)
+![image](assets/darktheme.png)
 
 ## Note
 
@@ -28,6 +26,7 @@ This repository is only for bug report and feature request.
 
 ## Browser Support
 
-[![Chrome](assets/chrome.png 'Chrome')](https://chrome.google.com/webstore/detail/repositree/lafjldoccjnjlcmdhmniholdpjkbgajo)
+click on the logo to download
 
-Firefox coming soon ...
+[![Chrome](assets/chrome.png 'Chrome')](https://chrome.google.com/webstore/detail/repositree/lafjldoccjnjlcmdhmniholdpjkbgajo)
+[![Firefox](assets/firefox.png 'Firefox')](https://addons.mozilla.org/en-US/firefox/addon/repositree/)
