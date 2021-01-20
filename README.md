@@ -30,3 +30,5 @@ click on the logo to download
 
 [![Chrome](assets/chrome.png 'Chrome')](https://chrome.google.com/webstore/detail/repositree/lafjldoccjnjlcmdhmniholdpjkbgajo)
 [![Firefox](assets/firefox.png 'Firefox')](https://addons.mozilla.org/en-US/firefox/addon/repositree/)
+
+## [Privacy Policy](https://github.com/chouglesaud/repositree/wiki/Privacy-Policy)
