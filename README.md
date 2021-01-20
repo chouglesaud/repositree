@@ -32,3 +32,7 @@ click on the logo to download
 [![Firefox](assets/firefox.png 'Firefox')](https://addons.mozilla.org/en-US/firefox/addon/repositree/)
 
 ## [Privacy Policy](https://github.com/chouglesaud/repositree/wiki/Privacy-Policy)
+1. Repositree doesn't share, collect your data at all.
+2. GitHub Access Token or GitHub Personal Access Token is required only when 
+you access private repositories or exceed the GitHub API rate limit.
+3. Repositree store token in your chrome extension storage, not in the localStorage and use only to authenticate with the GitHub.
