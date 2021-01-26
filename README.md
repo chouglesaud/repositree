@@ -1,4 +1,5 @@
-# Repositree 
+# Repositree
+
 [![](https://img.shields.io/chrome-web-store/v/lafjldoccjnjlcmdhmniholdpjkbgajo?logo=google-chrome&style=for-the-badge)](https://chrome.google.com/webstore/detail/repositree/lafjldoccjnjlcmdhmniholdpjkbgajo) [![](https://img.shields.io/chrome-web-store/users/lafjldoccjnjlcmdhmniholdpjkbgajo?style=for-the-badge)](https://chrome.google.com/webstore/detail/repositree/lafjldoccjnjlcmdhmniholdpjkbgajo)
 [![](https://img.shields.io/amo/v/repositree?logo=firefox&style=for-the-badge)](https://addons.mozilla.org/en-US/firefox/addon/repositree/) [![](https://img.shields.io/amo/users/repositree?style=for-the-badge)](https://addons.mozilla.org/en-US/firefox/addon/repositree/)
 
@@ -16,22 +17,23 @@ Browser extension that helps to explore GitHub repository.
 - More Feature Coming Soon...
 
 ## Download
-| Chrome | Firefox |
-|--------|---------|
-|[![Chrome](assets/chrome.png 'Chrome')](https://chrome.google.com/webstore/detail/repositree/lafjldoccjnjlcmdhmniholdpjkbgajo)|[![Firefox](assets/firefox.png 'Firefox')](https://addons.mozilla.org/en-US/firefox/addon/repositree/)|
-|[Download](https://chrome.google.com/webstore/detail/repositree/lafjldoccjnjlcmdhmniholdpjkbgajo)|[Download](https://addons.mozilla.org/en-US/firefox/addon/repositree/) |
+
+| Chrome                                                                                                                         | Firefox                                                                                                |
+| ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ |
+| [![Chrome](assets/chrome.png 'Chrome')](https://chrome.google.com/webstore/detail/repositree/lafjldoccjnjlcmdhmniholdpjkbgajo) | [![Firefox](assets/firefox.png 'Firefox')](https://addons.mozilla.org/en-US/firefox/addon/repositree/) |
+| [Download](https://chrome.google.com/webstore/detail/repositree/lafjldoccjnjlcmdhmniholdpjkbgajo)                              | [Download](https://addons.mozilla.org/en-US/firefox/addon/repositree/)                                 |
 
 ### Keyboard Shortcut
 
 `Ctrl + B` Toggle Side Bar Visibility
 
+## Privacy Policy
+
+1. Repositree doesn't share, collect your data at all.
+2. GitHub Access Token or GitHub Personal Access Token is required only when
+   you access private repositories or exceed the GitHub API rate limit.
+3. Repositree store token in your chrome extension storage, not in the localStorage and use only to authenticate with the GitHub.
+
 ## Note
 
 This repository is only for bug report and feature request.
-
-## Privacy Policy
-1. Repositree doesn't share, collect your data at all.
-2. GitHub Access Token or GitHub Personal Access Token is required only when 
-you access private repositories or exceed the GitHub API rate limit.
-3. Repositree store token in your chrome extension storage, not in the localStorage and use only to authenticate with the GitHub.
-
