@@ -27,6 +27,9 @@ Browser extension that helps to explore GitHub repository.
 
 `Ctrl + B` Toggle Side Bar Visibility
 
+## Changelog
+See the whole changelog [here](https://github.com/chouglesaud/repositree/wiki/CHANGELOG)
+
 ## Privacy Policy
 
 1. Repositree doesn't share, collect your data at all.
