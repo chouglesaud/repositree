@@ -1,38 +1,37 @@
-# Repositree
+# Repositree 
+[![](https://img.shields.io/chrome-web-store/v/lafjldoccjnjlcmdhmniholdpjkbgajo?logo=google-chrome&style=for-the-badge)](https://chrome.google.com/webstore/detail/repositree/lafjldoccjnjlcmdhmniholdpjkbgajo) [![](https://img.shields.io/chrome-web-store/users/lafjldoccjnjlcmdhmniholdpjkbgajo?style=for-the-badge)](https://chrome.google.com/webstore/detail/repositree/lafjldoccjnjlcmdhmniholdpjkbgajo)
+[![](https://img.shields.io/amo/v/repositree?logo=firefox&style=for-the-badge)](https://addons.mozilla.org/en-US/firefox/addon/repositree/) [![](https://img.shields.io/amo/users/repositree?style=for-the-badge)](https://addons.mozilla.org/en-US/firefox/addon/repositree/)
 
-Browser extension that helps to explore Github repository.
+Browser extension that helps to explore GitHub repository.
+
+![image](assets/darktheme.png)
 
 ## Features
 
-- Clean UI
+- Clean & Smooth UI
 - IDE-like code tree for GitHub (Public and Private) repositories.
 - Left & Right Dock Location.
 - Resizable Layout.
 - Github Light & Dark themes.
 - More Feature Coming Soon...
 
-**have an idea feel free to create feature request**
+## Download
+| Chrome | Firefox |
+|--------|---------|
+|[![Chrome](assets/chrome.png 'Chrome')](https://chrome.google.com/webstore/detail/repositree/lafjldoccjnjlcmdhmniholdpjkbgajo)|[![Firefox](assets/firefox.png 'Firefox')](https://addons.mozilla.org/en-US/firefox/addon/repositree/)|
+|[Download](https://chrome.google.com/webstore/detail/repositree/lafjldoccjnjlcmdhmniholdpjkbgajo)|[Download](https://addons.mozilla.org/en-US/firefox/addon/repositree/) |
 
-## Keyboard Shortcut
+### Keyboard Shortcut
 
-<kbd>Ctrl + B</kbd> Toggle Side Bar Visibility
-
-![image](assets/lighttheme.png)
-![image](assets/darktheme.png)
+`Ctrl + B` Toggle Side Bar Visibility
 
 ## Note
 
 This repository is only for bug report and feature request.
 
-## Browser Support
-
-click on the logo to download
-
-[![Chrome](assets/chrome.png 'Chrome')](https://chrome.google.com/webstore/detail/repositree/lafjldoccjnjlcmdhmniholdpjkbgajo)
-[![Firefox](assets/firefox.png 'Firefox')](https://addons.mozilla.org/en-US/firefox/addon/repositree/)
-
-## [Privacy Policy](https://github.com/chouglesaud/repositree/wiki/Privacy-Policy)
+## Privacy Policy
 1. Repositree doesn't share, collect your data at all.
 2. GitHub Access Token or GitHub Personal Access Token is required only when 
 you access private repositories or exceed the GitHub API rate limit.
 3. Repositree store token in your chrome extension storage, not in the localStorage and use only to authenticate with the GitHub.
+
