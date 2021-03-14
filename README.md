@@ -14,6 +14,7 @@ Browser extension that helps to explore GitHub repository.
 - Left & Right Dock Location.
 - Resizable Layout.
 - Github Light & Dark themes.
+- Bookmark.
 - More Feature Coming Soon...
 
 ## Download
