@@ -15,6 +15,7 @@ Browser extension that helps to explore GitHub repository.
 - Resizable Layout.
 - Github Light & Dark themes.
 - Bookmark.
+- [github1s](https://github.com/conwnet/github1s)(VSCode) Mode.
 - More Feature Coming Soon...
 
 ## Download
