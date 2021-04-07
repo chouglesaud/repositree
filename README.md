@@ -5,7 +5,7 @@
 
 Browser extension that helps to explore GitHub repository.
 
-![image](assets/repositree.png)
+![image](assets/product.png)
 
 ## Features
 
