@@ -19,6 +19,7 @@ Browser extension that helps to explore GitHub repository.
 - More Feature Coming Soon...
 
 ## Download
+Due to some account management issues Repositree v1.6.1 or higher temperoraly is not available on **Firefox Addons**. We will fix this issues as soon as possible.
 
 | Chrome                                                                                                                         | Firefox                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ |
