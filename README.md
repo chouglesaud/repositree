@@ -13,7 +13,7 @@ Browser extension that helps to explore GitHub repository.
 - IDE-like code tree for GitHub (Public and Private) repositories.
 - Left & Right Dock Location.
 - Resizable Layout.
-- GitHub Light,Dark & Dimmed themes.
+- GitHub Light,Dark, Dimmed & Dark high contrast themes.
 - Bookmark.
 - [github1s](https://github.com/conwnet/github1s)(VSCode) Mode.
 - More Feature Coming Soon...
